@@ -38,7 +38,7 @@ html {
     position: relative;
 }
 .container form .inputField {
-    border: 2px solid #1da1f2;
+    border: 2px solid #3f51b5;
     border-radius: 4px;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -63,8 +63,8 @@ html {
     transform: translateY(-125%);
 }
 button.submitButton {
-    background: #1da1f2;
-    border: 1px solid #1da1f2;
+    background: #3f51b5;
+    border: 1px solid #3f51b5;
     border-radius: 30px;
     color: #fff;
     cursor: pointer;
@@ -79,11 +79,11 @@ button.submitButton:hover {
     opacity: 0.7;
 }
 .footer {
-    color: #1da1f2;
+    color: #3f51b5;
     margin-top: 30px;
 }
 .footer a {
-    color: #1da1f2;
+    color: #3f51b5;
     text-decoration: none;
 }
 .footer span {
